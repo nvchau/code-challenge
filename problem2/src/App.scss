@@ -57,6 +57,7 @@
   // Main Content
   .app-main {
     @apply flex-1 flex items-center justify-center p-4 sm:p-8 w-full;
+    z-index: 2;
     padding-bottom: 5rem; // Space for bottom menu on mobile
   }
 
