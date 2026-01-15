@@ -76,3 +76,11 @@ npm run preview
 
 - Token prices: `https://interview.switcheo.com/prices.json`
 - Token icons: `https://raw.githubusercontent.com/Switcheo/token-icons/main/tokens/{SYMBOL}.svg`
+
+<img width="1904" height="907" alt="image" src="https://github.com/user-attachments/assets/14cd38db-d96b-4523-a16b-532e1d63b6e9" />
+
+<img width="1903" height="909" alt="image" src="https://github.com/user-attachments/assets/45b2fd3d-d357-4995-9bf4-d9e6077f2df8" />
+
+<img width="428" height="930" alt="image" src="https://github.com/user-attachments/assets/47306ffe-29c4-41f8-9681-bdab72ce47e2" />
+
+<img width="428" height="930" alt="image" src="https://github.com/user-attachments/assets/e2ff6f49-f5ba-4446-9f01-8b8f81bde6e5" />
